@@ -1,0 +1,4 @@
+
+    Hostname: LAPTOP-LKPO9TNJ
+    Platform: win32
+    Available cores: 20
